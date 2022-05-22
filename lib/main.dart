@@ -50,7 +50,7 @@ class Home extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: <Widget>[
 
-                    Text("Kishan Upadhyay",style: TextStyle(fontSize: 25),),
+                    Text("Kishan Upadhyay",style: TextStyle(fontSize: 18),),
                     Text("Developer")
                   ],
                 )
